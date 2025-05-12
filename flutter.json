@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 Pro Max",
+    "price": 1199.99,
+    "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, Pro camera system with 48MP main sensor.",
+    "category": "mobile phone",
+    "image": "https://example.com/images/iphone14promax.jpg",
+    "rating": { "rate": 4.8, "count": 950 }
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S23 Ultra",
+    "price": 1099.99,
+    "description": "200MP camera, Snapdragon 8 Gen 2, AMOLED 2X display, 5000mAh battery.",
+    "category": "mobile phone",
+    "image": "https://example.com/images/galaxy-s23-ultra.jpg",
+    "rating": { "rate": 4.6, "count": 860 }
+  },
+  {
+    "id": 3,
+    "title": "Google Pixel 8 Pro",
+    "price": 999,
+    "description": "Tensor G3 chip, pro camera, AI-powered features, 7 years of updates.",
+    "category": "mobile phone",
+    "image": "https://example.com/images/pixel8pro.jpg",
+    "rating": { "rate": 4.7, "count": 530 }
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 11 5G",
+    "price": 699,
+    "description": "Snapdragon 8 Gen 2, 120Hz AMOLED display, Hasselblad camera system.",
+    "category": "mobile phone",
+    "image": "https://example.com/images/oneplus11.jpg",
+    "rating": { "rate": 4.5, "count": 420 }
+  },
+  {
+    "id": 5,
+    "title": "Xiaomi 13 Pro",
+    "price": 799,
+    "description": "Leica co-engineered cameras, Snapdragon 8 Gen 2, 120W fast charging.",
+    "category": "mobile phone",
+    "image": "https://example.com/images/xiaomi13pro.jpg",
+    "rating": { "rate": 4.3, "count": 380 }
+  },
+  {
+    "id": 6,
+    "title": "Sony Xperia 1 V",
+    "price": 1299,
+    "description": "4K OLED display, pro-grade video recording, Snapdragon 8 Gen 2.",
+    "category": "mobile phone",
+    "image": "https://example.com/images/xperia1v.jpg",
+    "rating": { "rate": 4.4, "count": 275 }
+  },
+  {
+    "id": 7,
+    "title": "Apple Watch Series 9",
+    "price": 399,
+    "description": "Advanced health tracking with ECG, blood oxygen monitoring, and Always-On Retina display.",
+    "category": "smart watch",
+    "image": "https://example.com/images/applewatchseries9.jpg",
+    "rating": { "rate": 4.9, "count": 1200 }
+  },
+  {
+    "id": 8,
+    "title": "Samsung Galaxy Watch 6",
+    "price": 329.99,
+    "description": "Sleep, fitness, and health tracking with Super AMOLED display and advanced sensors.",
+    "category": "smart watch",
+    "image": "https://example.com/images/galaxywatch6.jpg",
+    "rating": { "rate": 4.4, "count": 530 }
+  },
+  {
+    "id": 9,
+    "title": "Garmin Forerunner 965",
+    "price": 599.99,
+    "description": "GPS smartwatch for athletes with AMOLED screen and training metrics.",
+    "category": "smart watch",
+    "image": "https://example.com/images/garmin965.jpg",
+    "rating": { "rate": 4.6, "count": 310 }
+  },
+  {
+    "id": 10,
+    "title": "Fitbit Versa 4",
+    "price": 199.95,
+    "description": "6+ day battery life, sleep tracking, heart rate monitor, GPS.",
+    "category": "smart watch",
+    "image": "https://example.com/images/fitbitversa4.jpg",
+    "rating": { "rate": 4.3, "count": 670 }
+  },
+  {
+    "id": 11,
+    "title": "Huawei Watch GT 4",
+    "price": 249.99,
+    "description": "Durable design, all-day health tracking, 14-day battery life.",
+    "category": "smart watch",
+    "image": "https://example.com/images/huaweiwatchgt4.jpg",
+    "rating": { "rate": 4.2, "count": 215 }
+  },
+  {
+    "id": 12,
+    "title": "Amazfit GTR 4",
+    "price": 199,
+    "description": "Bluetooth calling, dual-band GPS, Alexa built-in, long battery life.",
+    "category": "smart watch",
+    "image": "https://example.com/images/amazfitgtr4.jpg",
+    "rating": { "rate": 4.1, "count": 145 }
+  },
+  {
+    "id": 13,
+    "title": "Sony WH-1000XM5",
+    "price": 348,
+    "description": "Industry-leading noise cancellation, 30-hour battery, crystal-clear calls.",
+    "category": "headphone",
+    "image": "https://example.com/images/sonywh1000xm5.jpg",
+    "rating": { "rate": 4.7, "count": 1100 }
+  },
+  {
+    "id": 14,
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "price": 249,
+    "description": "Active Noise Cancellation, Spatial Audio, MagSafe Charging Case.",
+    "category": "headphone",
+    "image": "https://example.com/images/airpodspro2.jpg",
+    "rating": { "rate": 4.8, "count": 1450 }
+  },
+  {
+    "id": 15,
+    "title": "Bose QuietComfort 45",
+    "price": 329,
+    "description": "Comfortable over-ear design, superb ANC, 24 hours of playback.",
+    "category": "headphone",
+    "image": "https://example.com/images/boseqc45.jpg",
+    "rating": { "rate": 4.8, "count": 980 }
+  },
+  {
+    "id": 16,
+    "title": "Beats Studio3 Wireless",
+    "price": 349.95,
+    "description": "Powerful sound, noise cancelling, and Apple W1 chip for seamless pairing.",
+    "category": "headphone",
+    "image": "https://example.com/images/beatsstudio3.jpg",
+    "rating": { "rate": 4.5, "count": 870 }
+  },
+  {
+    "id": 17,
+    "title": "Jabra Elite 85h",
+    "price": 249.99,
+    "description": "SmartSound audio, 36-hour battery life, and rain-resistant design.",
+    "category": "headphone",
+    "image": "https://example.com/images/jabraelite85h.jpg",
+    "rating": { "rate": 4.4, "count": 620 }
+  },
+  {
+    "id": 18,
+    "title": "Sennheiser Momentum 4 Wireless",
+    "price": 379.95,
+    "description": "Audiophile-grade sound, adaptive ANC, and 60-hour battery life.",
+    "category": "headphone",
+    "image": "https://example.com/images/momentum4.jpg",
+    "rating": { "rate": 4.6, "count": 540 }
+  },
+  {
+    "id": 19,
+    "title": "Nothing Ear (2)",
+    "price": 149,
+    "description": "Hi-Res audio, dual chamber design, personalized sound profile.",
+    "category": "headphone",
+    "image": "https://example.com/images/nothingear2.jpg",
+    "rating": { "rate": 4.2, "count": 430 }
+  },
+  {
+    "id": 20,
+    "title": "Anker Soundcore Life Q35",
+    "price": 129.99,
+    "description": "LDAC support, hybrid ANC, 40-hour battery life, and comfort-focused design.",
+    "category": "headphone",
+    "image": "https://example.com/images/lifeq35.jpg",
+    "rating": { "rate": 4.3, "count": 690 }
+  }
+]
